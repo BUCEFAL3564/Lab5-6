@@ -1,0 +1,7 @@
+.home-hero {
+  background-image: url("../images/showroom.jpg");
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-align: center;
+}
