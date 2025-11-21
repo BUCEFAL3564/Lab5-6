@@ -1,0 +1,12 @@
+@import "../base/variables";
+.car-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: $border-radius;
+  background-color: white;
+
+  img {
+    max-width: 100%;
+    border-radius: $border-radius;
+  }
+}

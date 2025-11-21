@@ -1,0 +1,19 @@
+@import "base/reset.scss";
+@import 'base/typography';
+@import 'base/variables';
+
+@import 'components/buttons';
+@import 'components/forms';
+@import 'components/nav';
+
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sidebar';
+
+@import 'pages/home';
+@import 'pages/about';
+@import 'pages/cars';
+@import 'pages/account';
+
+@import 'themes/light';
+// @import 'themes/dark'; // можно переключать тему
